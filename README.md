@@ -5,4 +5,7 @@ Some description!
 ## Subheader
 
 lol
-dfjgbludfzjhbg
+
+## Local Developement
+
+1. Open index.html in your browser.
